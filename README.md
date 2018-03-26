@@ -23,9 +23,9 @@ See [https://creativecommons.org/licenses/by/3.0/][ccl] for more details.
 
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
-[java]: https://google.github.io/styleguide/javaguide.html
-[py]: https://google.github.io/styleguide/pyguide.html
-[sh]: https://google.github.io/styleguide/shell.xml
-[htmlcss]: https://google.github.io/styleguide/htmlcssguide.html
-[js]: https://google.github.io/styleguide/jsguide.html
+[java]: https://kbiops.github.io/styleguide/javaguide.html
+[py]: https://kbiops.github.io/styleguide/pyguide.html
+[sh]: https://kbiops.github.io/styleguide/shell.xml
+[htmlcss]: https://kbiops.github.io/styleguide/htmlcssguide.html
+[js]: https://kbiops.github.io/styleguide/jsguide.html
 [ccl]: https://creativecommons.org/licenses/by/3.0/
